@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2024-02-21T20:15:20Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.5.1"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.67,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "RoboRingOut"
+        },
+        "Owner": "Sebastian Neuhofer <sebastian.neuhofer@htl-salzburg.ac.at>",
+        "Size": {
+            "X": 59.69,
+            "Y": 90.17
+        }
+    }
+}
